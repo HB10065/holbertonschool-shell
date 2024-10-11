@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
+git add /root/holbertonschool-shell
 read -p 'commit message: ' commit_message
 git commit -m '$commit_message'
 git push
