@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -h 3 ./iacta
+grep -i 1 -i 2 -h 3 ./iacta
